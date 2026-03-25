@@ -694,6 +694,7 @@ instructions:
       "object_name":
         types: 
           train: "all_cats"
+        recep: 'receptacle1'
         not_recep: 'receptacle2'
 
 
